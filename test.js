@@ -3,3 +3,5 @@ const xd = () => {
 };
 
 xd();
+
+console.log("Hey, quieres un dulce?");
