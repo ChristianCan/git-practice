@@ -1,5 +1,5 @@
 const xd = () => {
-  console.log("hola");
+  console.log("Hey, quieres un dulce?");
 };
 
 xd();
