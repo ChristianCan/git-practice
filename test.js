@@ -1,5 +1,5 @@
 const xd = () => {
-  console.log("hola");
+  console.log("hello word");
 };
 
 xd();
