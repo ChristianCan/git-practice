@@ -1,1 +1,5 @@
-console.log("hola");
+const xd = () => {
+  console.log("hola");
+};
+
+xd();
