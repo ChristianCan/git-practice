@@ -2,6 +2,6 @@ const xd = () => {
   console.log("hello word");
 };
 
-// xD
+// test
 
 xd();
